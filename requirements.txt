@@ -1,0 +1,23 @@
+requests==2.31.0
+python-dotenv==1.0.0
+pydantic==2.5.0
+
+# Core dependencies
+streamlit==1.31.0
+torch==2.1.2
+transformers==4.38.0
+accelerate==0.26.1
+bitsandbytes==0.42.0
+
+# Additional utilities
+sentencepiece==0.1.99
+protobuf==4.25.2
+einops==0.7.0
+
+# Optional but recommended
+scipy==1.12.0
+safetensors==0.4.2
+
+# FastAPI
+fastapi==0.109.0
+uvicorn==0.27.0
